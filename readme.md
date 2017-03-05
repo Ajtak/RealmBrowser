@@ -2,6 +2,7 @@
 Browser to view the table structure and content of your database.
 ## Usage
 **Step 1. Add the JitPack repository to your build file** 
+
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
@@ -14,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 **Step 2. Add the dependency**
 
 	dependencies {
-		compile 'com.github.User:Repo:Tag'
+	        compile 'com.github.Ajtak:RealmBrowser:0.8.3'
 	}
 
 **Step 3. Install to project**
