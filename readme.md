@@ -28,9 +28,6 @@ if (BuildConfig.DEBUG) {
 ##ToDo
 - [ ] Pagination for content
 - [ ] Editation of rows
-- 
-   
-
 
 
 ## Screenshots
