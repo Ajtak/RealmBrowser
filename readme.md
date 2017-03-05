@@ -28,7 +28,6 @@ if (BuildConfig.DEBUG) {
 ##ToDo
 - [ ] Pagination for content
 - [ ] Editation of rows
-- 
    
 
 
@@ -36,4 +35,4 @@ if (BuildConfig.DEBUG) {
 ## Screenshots
 ![alt text](http://blog.jafr.eu/domains/blog.jafr.eu/wp-content/uploads/2017/03/Snímek-obrazovky-2017-03-05-v-15.51.34.png "Table of structure")
 
-![alt text](http://blog.jafr.eu/domains/blog.jafr.eu/wp-content/uploads/2017/03/Snímek-obrazovky-2017-03-05-v-15.51.41.png"Table of content")
+![alt text](http://blog.jafr.eu/domains/blog.jafr.eu/wp-content/uploads/2017/03/Snímek-obrazovky-2017-03-05-v-15.51.41.png "Table of content")
